@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIC_TO_LINE", "PIC_TO_LINE.csproj", "{9A7D97ED-A908-46BC-A006-6D09BCA5565E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7D97ED-A908-46BC-A006-6D09BCA5565E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7D97ED-A908-46BC-A006-6D09BCA5565E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7D97ED-A908-46BC-A006-6D09BCA5565E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7D97ED-A908-46BC-A006-6D09BCA5565E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C34514A0-089F-4AC0-A4B2-0286C2BACFF6}
+	EndGlobalSection
+EndGlobal
